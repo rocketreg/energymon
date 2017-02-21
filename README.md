@@ -1,2 +1,2 @@
 # energymon
-Average 6-second data from mqtt broker as 5-minute averages and store on couchdb
+avg.js - 6-second sensor-data arrives from mqtt broker. Calculate 5-minute averages for each sensor and store on couchdb.
